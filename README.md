@@ -1,8 +1,4 @@
-<p>
-  <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE_CN">
-    <img alt="996icu" src="https://img.shields.io/badge/license-NPL%20%28The%20996%20Prohibited%20License%29-blue.svg">
-  </a>
-</p>
+
 - [For non Chinese speaker, click here to read a English version.](/README_EN.md)
 ## 下载软件并导入配置
 如果你收到一张图/一串链接/一个二维码，但是你不知道怎么用，请在下面选择你的设备类型。
@@ -16,7 +12,11 @@
 - [Mac](#Mac)
 
 # FuckTheWall
-
+<p>
+  <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE_CN">
+    <img alt="996icu" src="https://img.shields.io/badge/license-NPL%20%28The%20996%20Prohibited%20License%29-blue.svg">
+  </a>
+</p>
 ## 简介
 如无意外（政治上），每月10号修改一次参数（密码端口必改，其他参数偶尔改）。
 
