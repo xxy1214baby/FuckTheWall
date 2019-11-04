@@ -29,7 +29,7 @@
 
 ## iOS
 
-- 微信找我要账号密码，AppStore下载
+- 微信找我要Apple id，已购所需软件
 
 ## Windows
 
