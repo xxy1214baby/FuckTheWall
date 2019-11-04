@@ -3,13 +3,13 @@
 ## 索引
 如果你收到一张图/一串连接/一个二维码，但是你不知道怎么用，请在下面选择你的设备类型。
 
-[Android](#Android)
+- [Android](#Android)
 
-[iOS](#iOS)
+- [iOS](#iOS)
 
-[Windows](#Windows)
+- [Windows](#Windows)
 
-[Mac](#Mac)
+- [Mac](#Mac)
 
 如无意外（政治上），每月10号修改一次参数（密码端口必改，其他参数偶尔改）。
 
